@@ -14,7 +14,7 @@ The following commands clone the repo to your Raspberry Pi and then run `install
 
 ```bash
 cd ~
-git clone https://github.com/PabOu-be/RetroPie-Extra.git
+git clone https://github.com/moonpi/RetroPie-Extra.git
 cd RetroPie-Extra/
 ./install-extras.sh
 ```
