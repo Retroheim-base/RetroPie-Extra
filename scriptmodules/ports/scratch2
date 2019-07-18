@@ -10,7 +10,7 @@
 #
 
 rp_module_id="scratch2"
-rp_module_desc="Scratch 2 Offline Editor"
+rp_module_desc="Scratch 2 Offline Editor - WARNING PROGRAM CANNOT CLOSE!"
 rp_module_licence="GPLv2 https://raw.githubusercontent.com/LLK/scratch-flash/develop/COPYING"
 rp_module_section="exp"
 rp_module_flags="!mali !x86"
@@ -35,5 +35,5 @@ matchbox-window-manager -use_titlebar yes &
 _EOF_
     chmod +x "$md_inst/scratch2.sh"
 
-    addPort "$md_id" "scratch2" "Scratch 2 Offline Editor" "xinit $md_inst/scratch2.sh"
+    addPort "$md_id" "scratch2" "Scratch 2 Offline Editor - WARNING PROGRAM CANNOT CLOSE!" "xinit $md_inst/scratch2.sh"
 }
