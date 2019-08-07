@@ -1,8 +1,8 @@
-**Note** - This repository is a fork from zerojay's repository which was unmaintained. A lot of stuff is old and might not be working as intended with recent RetroPie.
+**Note** - This repository is a fork from zerojay's repository which was unmaintained. Most of the scripts are old and may not be working as intended with recent RetroPie versions.
 
 # RetroPie-Extra
 
-This is a **collection of unofficial installation scripts for RetroPie** allowing you to quickly and easily **install emulators, ports and libretrocores** that haven't been included in RetroPie (yet?) for one reason or another. These scripts can be considered experimental at best. Some of these scripts might overwrite their RetroPie's scripts counterparts.
+This is a **collection of unofficial installation scripts for RetroPie** allowing you to quickly and easily **install emulators, ports and libretrocores** that haven't been included in RetroPie (yet?) for one reason or another. These scripts can be considered **experimental** at best. Some of these scripts might overwrite their RetroPie's scripts counterparts.
 
 This repository contains scripts that are being worked on and scripts that might not work out-of-the-box or not at all. Use at your own risk, I am not liable for any damage caused by any of these scripts or their affiliated software.
 
